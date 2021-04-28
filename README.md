@@ -1,1 +1,2 @@
-# class-21-white-hat-jr
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
